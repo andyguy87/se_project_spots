@@ -15,7 +15,10 @@ A social media site for sharing a personal profile and pictures
 ## Deployment
 
 This webpage is deployed to Github Pages
-INSERT LINK
+
+https://github.com/andyguy87/se_project_spots.git
+
+git@github.com:andyguy87/se_project_spots.git
 
 ## Video Description Link
 
