@@ -4,7 +4,7 @@ Spots
 
 ## Description
 
-A social media site for sharing personal profile and pictures
+A social media site for sharing a personal profile and pictures
 
 ## Tech Stack
 
@@ -19,4 +19,4 @@ INSERT LINK
 
 ## Video Description Link
 
-INSERT LINK
+https://drive.google.com/file/d/1prGG0eTPTkVHyn-Bs6x2crjZo5KOcL2I/view?usp=sharing
