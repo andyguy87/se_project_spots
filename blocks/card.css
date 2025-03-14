@@ -2,7 +2,7 @@
   width: 413px;
   height: 413px;
   object-fit: cover;
-  border-radius: 10px;
+  border-radius: 8px;
   display: block;
 }
 
@@ -41,5 +41,9 @@
   .card__image {
     width: 288px;
     height: 288px;
+  }
+
+  .card__title {
+    font-size: 16px;
   }
 }

@@ -1,6 +1,6 @@
 # Project name
 
-Spots 
+Spots
 
 ## Description
 
@@ -16,9 +16,7 @@ A social media site for sharing a personal profile and pictures
 
 This webpage is deployed to Github Pages
 
-https://github.com/andyguy87/se_project_spots.git
-
-git@github.com:andyguy87/se_project_spots.git
+https://andyguy87.github.io/se_project_spots/
 
 ## Video Description Link
 
