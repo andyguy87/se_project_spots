@@ -83,3 +83,7 @@ function handleAddCardSubmit(evt) {
 
 addCardFormEl.addEventListener("submit", handleAddCardSubmit);
 
+initialCards.forEach(function (i) {
+ console.log(i.name);
+ console.log(i.link);
+})
